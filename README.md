@@ -58,12 +58,10 @@ If you need to use your own rotational velocity input profile to estimate brain 
 - You can easily modify the programs to batch process.
 
 ## Citation:
-Please cite the following studies for the model (Ref 1 and 2) the CNN data tool for brain strain pattern (Ref 3) and our previous CNN  tool for peak brain strain (Ref 4) used if you apply in your study:
-
-1. Zhao, W., Ji, S., 2019. White matter anisotropy for impact simulation and response sampling in traumatic brain injury. J. Neurotrauma 36, 250–263. [doi:10.1089/neu.2018.5634 **front cover**](https://www.liebertpub.com/doi/abs/10.1089/neu.2018.5634) 
-2. Ji, S., Zhao, W., Ford, J.C., Beckwith, J.G., Bolander, R.P., Greenwald, R.M., Flashman, L.A., Paulsen, K.D., McAllister, T.W., 2015. Group-wise evaluation and comparison of white matter fiber strain and maximum principal strain in sports-related concussion. J. Neurotrauma 32, 441–454. [doi:10.1089/neu.2013.3268 **front cover**](https://www.liebertpub.com/doi/10.1089/neu.2013.3268)
-3. Ghazi K, Wu S, Zhao W, Ji S. Instantaneous Whole-brain Strain Estimation in Dynamic Head Impact. J Neurotrauma. 2020 Oct 30. doi: 10.1089/neu.2020.7281. Epub ahead of print. PMID: 33126836.
-4. Wu, S., Zhao, W., Ghazi, K., Ji, S. 2019. Convolutional neural network for efficient estimation of  regional brain strains. Scientific Reports 9, 17326. [doi:10.1038/s41598-019-53551-1](https://www.nature.com/articles/s41598-019-53551-1)
+Please cite the following studies for the CNN data tool for brain strain pattern (Ref 1), our previous CNN  tool for peak brain strain (Ref 2), the model (Ref 3) if you apply in your study:
+1. Ghazi K, Wu S, Zhao W, Ji S. Instantaneous Whole-brain Strain Estimation in Dynamic Head Impact. J Neurotrauma. 2020 Oct 30. doi: 10.1089/neu.2020.7281. Epub ahead of print. PMID: 33126836.
+2. Wu, S., Zhao, W., Ghazi, K., Ji, S. 2019. Convolutional neural network for efficient estimation of  regional brain strains. Scientific Reports 9, 17326. [doi:10.1038/s41598-019-53551-1](https://www.nature.com/articles/s41598-019-53551-1)
+3. Zhao, W., Ji, S., 2019. White matter anisotropy for impact simulation and response sampling in traumatic brain injury. J. Neurotrauma 36, 250–263. [doi:10.1089/neu.2018.5634 **front cover**](https://www.liebertpub.com/doi/abs/10.1089/neu.2018.5634) 
 
 ## Further development:
 We would appreciate it if you can send us sample head impact kinematics data so that: (1) to verify that the CNN-estimated strains are sufficiently accurate relative to the directly simulated counterparts; and (2) to allow us expanding the training dataset to further improve the CNN estimation accuracy.
