@@ -1,5 +1,5 @@
 # CNN-estimation-of-brain-strain-distribution
-https://drive.google.com/drive/folders/1iYKKr1NCk6FwGG1Ax-26Ueb-ipxfy8ih?usp=sharing
+4mm
 CNN-estimation-of-brain-strain-distribution [[link of the paper]](--)
 
 This page will be updated as needed. 
@@ -37,10 +37,11 @@ Three pretrained CNN neural network models are provided based on all of the brai
 
 ## Strain Prediction demo:
 To use the pretrained CNN models for strain estimation, please check the strain prediction evaluation demo in /Strain_prediction folder
-- Go to /Strain_prediction
+- Go to /2__Strain_prediction
+- Download "https://drive.google.com/drive/folders/1iYKKr1NCk6FwGG1Ax-26Ueb-ipxfy8ih?usp=sharing" to "2__Strain_prediction"
 - Run `python demo_evaluation.py`. 
 - **Input**: Notice that this demo uses `Evaluation_example.mat` as an example rotational velocity profile input for evaluation. 
-- **Output**: The output file will be saved as `Output.mat` in the /Strain_prediction folder.
+- **Output**: The output file will be saved as `Output.mat` in the /2__Strain_prediction folder.
 
 ## Quick Run:
 If you need to use your own rotational velocity input profile to estimate brain strains from the pretrained CNN models 
