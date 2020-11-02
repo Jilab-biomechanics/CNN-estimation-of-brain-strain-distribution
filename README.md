@@ -43,7 +43,7 @@ Pretrained CNN neural network model is provided based on all of the brain respon
 ## Strain Prediction demo:
 To use the pretrained CNN models for strain estimation, please check the strain prediction evaluation demo in /2__Strain_prediction folder
 - Go to /2__Strain_prediction
-- Download [[pre-trained model]] (https://drive.google.com/drive/folders/1iYKKr1NCk6FwGG1Ax-26Ueb-ipxfy8ih?usp=sharing) to "2__Strain_prediction"
+- Download [[pre-trained model]](https://drive.google.com/drive/folders/1iYKKr1NCk6FwGG1Ax-26Ueb-ipxfy8ih?usp=sharing) to "2__Strain_prediction"
 - Run `python demo_evaluation.py`. 
 - **Input**: Notice that this demo uses `Evaluation_example.mat` as an example rotational velocity and acceleration profile input for evaluation. 
 - **Output**: The output file will be saved as `Output.mat` in the /2__Strain_prediction folder.
