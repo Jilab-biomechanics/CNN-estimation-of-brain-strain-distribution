@@ -1,6 +1,6 @@
 # CNN-estimation-of-brain-strain-distribution
-4mm
-CNN-estimation-of-brain-strain-distribution [[link of the paper]](https://www.liebertpub.com/doi/10.1089/neu.2020.7281)
+CNN-estimation-of-brain-strain-distribution [[link of the paper]](https://www.liebertpub.com/doi/10.1089/neu.2020.7281).
+This demo version is on a 4mm voxel-wise basis.
 
 This page will be updated as needed. 
 
