@@ -153,7 +153,7 @@ h.LineWidth = 1;
 hold off;
 %% 4) Reshape the profile (N*6*201) for CNN training
 N = 1;
-pad_profile = Pad_curves
+pad_profile = Pad_curves;
 pad_profile = reshape(pad_profile, [N, 201, 6]);
 pad_profile = permute(pad_profile,[1 3 2]);
 %% put in 2D image shape
