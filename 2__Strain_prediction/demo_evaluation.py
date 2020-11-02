@@ -31,7 +31,7 @@ def main():
     
     ################ Load the pre-trained models    
     
-    mps_model = keras.models.load_model(dirpath+'\\Pretrained_model\pre_trained_model.h5', custom_objects={'error_func_with_mse': 'mean_squared_error'})
+    mps_model = keras.models.load_model(dirpath+'\\pre_trained_model.h5', custom_objects={'error_func_with_mse': 'mean_squared_error'})
     
     ################ Summary of the CNN architecture
     mps_model.summary()
