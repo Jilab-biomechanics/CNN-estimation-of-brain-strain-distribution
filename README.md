@@ -36,7 +36,9 @@ A data preprocessing demo is provided in /1__Preprocessing folder.
 - Run `demo_preprocessing.m` in Matlab
 
 ![](https://github.com/Jilab-biomechanics/CNN-estimation-of-brain-strain-distribution/blob/main/3__figures/1.JPG)
+
 ![](https://github.com/Jilab-biomechanics/CNN-estimation-of-brain-strain-distribution/blob/main/3__figures/2.JPG)
+
 ![](https://github.com/Jilab-biomechanics/CNN-estimation-of-brain-strain-distribution/blob/main/3__figures/3.JPG)
 
 ## Pretrained CNN models:
