@@ -15,7 +15,7 @@ For collaboration inquries, contact S. Ji: sji AT wpi dot edu
 ## Prerequisites
 - System: Windows/ MacOS/ Linux (e.g: Ubuntu 16.04)
 - Matlab 2017 or above
-- [Python 2.7](https://www.anaconda.com/distribution/)
+- [Python 3.6](https://www.anaconda.com/distribution/)
 - [Scikit-Learn](https://scikit-learn.org/stable/install.html)
 - [Scipy](https://www.scipy.org/)
 - [Keras 2.2.4](http://faroit.com/keras-docs/2.2.4/#installation)
