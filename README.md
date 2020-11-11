@@ -13,13 +13,13 @@ For technical questions, contact K. Ghazi: kghazi AT wpi dot edu
 For collaboration inquries, contact S. Ji: sji AT wpi dot edu
 
 ## Prerequisites
-- System: MacOS/ Linux (e.g: Ubuntu 16.04)
+- System: Windows/ MacOS/ Linux (e.g: Ubuntu 16.04)
 - Matlab 2017 or above
 - [Python 2.7](https://www.anaconda.com/distribution/)
 - [Scikit-Learn](https://scikit-learn.org/stable/install.html)
 - [Scipy](https://www.scipy.org/)
-- [Keras 2.08](http://faroit.com/keras-docs/2.0.8/#installation)
-- [Tensorflow 1.4.0](https://pypi.org/project/tensorflow/1.4.0/#files)
+- [Keras 2.2.4](http://faroit.com/keras-docs/2.2.4/#installation)
+- [Tensorflow 1.11.0](https://pypi.org/project/tensorflow/1.11.0/#files)
 ## Data preprocessing:
 - Resampling the impact profile to 1 ms (temporal resolution) 
 - Acquiring Acceleration
