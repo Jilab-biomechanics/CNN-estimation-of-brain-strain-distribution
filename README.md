@@ -35,11 +35,11 @@ A data preprocessing demo is provided in /1__Preprocessing folder.
 - Go to /Preprocessing
 - Run `demo_preprocessing.m` in Matlab
 
-![](https://github.com/Jilab-biomechanics/CNN-estimation-of-brain-strain-distribution/blob/main/3__figures/1.JPG)
+![](https://github.com/Jilab-biomechanics/CNN-estimation-of-brain-strain-distribution/blob/main/3__figures/1.jpg)
 
-![](https://github.com/Jilab-biomechanics/CNN-estimation-of-brain-strain-distribution/blob/main/3__figures/2.JPG)
+![](https://github.com/Jilab-biomechanics/CNN-estimation-of-brain-strain-distribution/blob/main/3__figures/2.jpg)
 
-![](https://github.com/Jilab-biomechanics/CNN-estimation-of-brain-strain-distribution/blob/main/3__figures/3.JPG)
+![](https://github.com/Jilab-biomechanics/CNN-estimation-of-brain-strain-distribution/blob/main/3__figures/3.jpg)
 
 ## Pretrained CNN models:
 Pretrained CNN neural network model is provided based on all of the brain response samples available in the published study (N=5661). They correspond to the maximum principal strain (MPS) pattern of the whole brain. 
