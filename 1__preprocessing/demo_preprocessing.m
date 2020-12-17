@@ -32,7 +32,7 @@ load(['profile']);
 for i=1:3
     acc(:,i) = [0;diff(profile(:,i))/0.001];
 end
-acc = acc.*0.001;
+acc = acc.*0.01;
 profile = [profile,acc];
 %% Visualize input profile
 figure 
