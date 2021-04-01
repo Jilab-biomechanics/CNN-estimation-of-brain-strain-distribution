@@ -8,7 +8,7 @@ Github link
 
 """
 import numpy as np
-import keras
+import tensorflow.keras as keras
 from scipy.io import loadmat
 from scipy.io import savemat
 import os
